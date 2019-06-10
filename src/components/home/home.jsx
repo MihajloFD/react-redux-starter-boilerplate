@@ -15,6 +15,7 @@ class Home extends Component {
           <Link to='/about'> About </Link>
         </nav>
         <main>{home}</main>
+        <footer>Footer</footer>
       </div>
     );
   }
